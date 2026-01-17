@@ -1,5 +1,3 @@
-Here is a professional and advanced README.md that you can use for your script. It covers everything from installation to technical logic and troubleshooting.
-
 🌈 Neon Controller (ESX)
 An advanced and user-friendly solution for controlling vehicle neon via an interactive remote control (NUI). The script includes persistent storage in the database, RGB disco mode and customizable shortcuts.
 
